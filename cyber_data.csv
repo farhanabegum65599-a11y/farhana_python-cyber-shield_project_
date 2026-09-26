@@ -1,0 +1,11 @@
+packet_size,connection_count,failed_logins,port_scan,threat
+120,5,0,0,Normal
+450,25,2,1,Suspicious
+800,60,8,1,Attack
+150,4,0,0,Normal
+900,75,12,1,Attack
+300,15,1,0,Suspicious
+1000,90,15,1,Attack
+180,6,0,0,Normal
+600,40,5,1,Suspicious
+1100,100,20,1,Attack
